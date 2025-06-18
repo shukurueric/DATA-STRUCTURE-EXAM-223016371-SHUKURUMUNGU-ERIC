@@ -1,4 +1,4 @@
-##97.Restaurant Order Manager
+## 97.Restaurant Order Manager
 
 ### My project deal with ordering in restaurant as manager but in program of C++
 
